@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Perihannur Bıçkı
+I am Perihannur Bıçkı :) 
 
 - 😄 I have been improving myself in the software field for about a year.
 - 🌱 I started by learning html and css.
