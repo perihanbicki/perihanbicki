@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Perihan. I am a front-end developer. <br><br>⚡I am currently working on JavaScript projects.<br><br>⚡I am currently learning React,Redux.<br><br>🌱I love coding, digital production, bringing my ideas to life and pursuing my dreams.<br><br>⚡How to reach me perihanbicki@gmail.com<br>
+Hi, I am Perihan. I am a front-end developer. <br><br>⚡I am currently working on JavaScript and React projects.<br><br>⚡I am currently learning Redux,TypeScript.<br><br>🌱I love coding, digital production, bringing my ideas to life and pursuing my dreams.<br><br>⚡How to reach me perihanbicki@gmail.com<br>
 
 
 # 💻 Tech Stack:
